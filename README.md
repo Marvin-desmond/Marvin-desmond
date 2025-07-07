@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Marvin-desmond 👉 [Portfolio](https://marvindesmond.vercel.app)
-- 👀 I’m interested in web app development, mobile app development, Machine Learning and Deep Learning.
-- 🌱 I’m currently developing apps and systems in Flutter, TensorFlow, MongoDB, PyTorch and Flask.
-- 💞️ I’m looking to collaborate on projects in Kaggle or outside in the field of Computer Vision.
+- 👋 Hi, I’m Marvin-desmond 👉 [Portfolio](https://marvindesmond.com)
+- 👀 I’m active in Machine Learning, High Performance Computing, Signal Processing, Information Theory.
+- 🌱 I’m currently developing apps and systems in Vue, Nuxt, PyTorch, profilers, C, CUDA.
+- 💞️ I’m looking to collaborate on projects in Kaggle or outside in the field of Computer Vision, Augmented Computing, Multimodal Systems.
 - 📫 How to reach me :
   - Email ~ <a href="mailto:marvindesmond@gmail.com">marvindesmond@gmail.com</a>
-  - LinkedIn ~ [Marvin Mboya](https://www.linkedin.com/in/marvin-mboya-b7bb81195/)
+  - LinkedIn ~ [Marvin Mboya](https://www.linkedin.com/in/marvin-mboy/)
   - Twitter ~ [@Marvindesmond1](https://twitter.com/Marvindesmond1)
 
 <!---
